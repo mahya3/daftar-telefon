@@ -26,9 +26,9 @@ This project allows users to store and manage basic contact information such as 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/phonebook-simulator.git
--2.Open the project in Visual Studio.
--3.Build and run the solution.
--4.Start adding contacts and see them saved in the list and .txt file
+- 2.Open the project in Visual Studio.
+- 3.Build and run the solution.
+- 4.Start adding contacts and see them saved in the list and .txt file
 
 ---
 
@@ -55,5 +55,5 @@ When the application restarts, it automatically reads from contacts.txt and disp
 
 - ---
 
-##v📜 License
+##📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
